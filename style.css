@@ -1,15 +1,5 @@
-.chessboard {
-    display: grid;
-    grid-template-columns: repeat(10, 1fr);
-    grid-template-rows: repeat(10, 1fr);
-    width: 400px;
-    height: 400px;
-}
-
-.square {
-    background-color: #eeeae3;
-}
-
-.square.black {
-    background-color: #0c0c0b;
+#color{
+    background: url(./1624460809_56-phonoteka_org-p-oboi-na-ekran-noutbuka-krasivo-56.jpg) no-repeat center/cover;
+    min-width: 100vh;
+    min-height: 100vh;
 }
